@@ -17,6 +17,7 @@ https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/UnlockVip/Spotify.co
 https://gist.githubusercontent.com/ddgksf2013/0f76e952f0c4a2579932f45a209b40c3/raw/Kuwo.conf
 https://raw.githubusercontent.com/chxm1023/Rewrite/main/caiyun.js
 https://raw.githubusercontent.com/WeiRen0/Scripts/main/wyun.js
+https://raw.githubusercontent.com/Yu9191/Rewrite/main/yangshipin.js
 https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/StartUp.conf
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zheye/zheye.snippet
 https://raw.githubusercontent.com/app2smile/rules/master/module/tieba-qx.conf
