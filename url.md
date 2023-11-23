@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-a
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/WeChat/WeChat.list
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/TikTok.list
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Google/GoogleVoice.list
-https://raw.githubusercontent.com/ddgksf2013/Filter/master/OpenAi.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/OpenAI/OpenAI.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Spotify/Spotify.list
 https://raw.githubusercontent.com/ddgksf2013/Filter/master/Streaming.list
 https://raw.githubusercontent.com/ddgksf2013/Filter/master/StreamingSE.list
