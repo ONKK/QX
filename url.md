@@ -18,6 +18,8 @@ https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/UnlockVip/Spotify.co
 https://gist.githubusercontent.com/ddgksf2013/0f76e952f0c4a2579932f45a209b40c3/raw/Kuwo.conf
 https://raw.githubusercontent.com/chxm1023/Rewrite/main/caiyuntianqi.js
 https://raw.githubusercontent.com/gjwj666/qx/main/Wyy.js
+https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/Applet.conf
+https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/WeChat.conf
 https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/StartUp.conf
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zheye/zheye.snippet
 https://raw.githubusercontent.com/app2smile/rules/master/module/tieba-qx.conf
@@ -32,12 +34,14 @@ https://raw.githubusercontent.com/RuCu6/QuanX/main/Rewrites/Cube/cloudmusic.snip
 https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/XiaoHongShu.conf
 https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/KeepStyle.conf
 https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/Cainiao.conf
+https://raw.githubusercontent.com/ddgksf2013/Scripts/master/12306.js
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.qxrewrite
 https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/chongxie.txt
 https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/Html/WebAdBlock.conf
 https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/Adblock4limbo.conf
 https://gist.githubusercontent.com/ddgksf2013/f43026707830c7818ee3ba624e383c8d/raw/baiduCloud.vip.js
 https://gist.githubusercontent.com/ddgksf2013/f4752e632fd3375ea2811985c5b635dc/raw/alicloud.js
-https://raw.githubusercontent.com/zZPiglet/Task/master/UnblockURLinWeChat.conf
+https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/Function/UnblockURLinWeChat.conf
 https://raw.githubusercontent.com/id77/QuantumultX/master/rewrite/Youtube_CC.conf
 https://raw.githubusercontent.com/Orz-3/QuantumultX/master/TikTok.conf
 https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Quantumult-X/TikTok-US.conf
